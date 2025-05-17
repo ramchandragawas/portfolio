@@ -80,7 +80,7 @@ const About = () => {
         <div className="about-img-container" ref={imgContainerRef}>
           <div className="img-background"></div>
           <img 
-            src="/images/ram2.png" 
+            src="/images/ram.png" 
             alt="Profile" 
             className="about-img"
             onError={(e) => {
